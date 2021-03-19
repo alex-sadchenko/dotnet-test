@@ -6,7 +6,9 @@ namespace Helloworld
     {
         void MyMethod()
         {
+            Console.WriteLine("HelloWorld");
             Console.WriteLine("HelloWorld its Me");
         }
+
     }
 }
