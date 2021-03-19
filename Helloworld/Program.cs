@@ -6,6 +6,7 @@ namespace Helloworld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello from branch!");
             Console.WriteLine("Hello from bugFix!");
         }
     }
