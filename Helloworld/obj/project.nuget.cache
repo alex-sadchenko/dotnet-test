@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tNAcjFY9Pf0Rl48Fg0mn5LuanNVWne11a+uDFc38jW1RB55Hos/IH1zWt4Gg5czcc/P2IYCouSizflKltfOy4w==",
+  "dgSpecHash": "1p8dN5tFO/8EbN1aymIr5FT4sLcifXqvy4Kc1rMioB23LbJy8/fqKkP1iMD/eenxaNXx57q5QRrdAS9pNqrRvg==",
   "success": true,
   "projectFilePath": "D:\\dot net projects\\test\\Helloworld\\Helloworld.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Users\\Администратор\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
